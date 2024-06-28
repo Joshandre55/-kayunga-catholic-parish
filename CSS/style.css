@@ -748,7 +748,7 @@ a:focus {
 }
 
 .contact_section .form_container input {
-  width: 100%;
+  width: 50%;
   border: none;
   height: 50px;
   margin-bottom: 25px;
@@ -917,7 +917,7 @@ a:focus {
 
 .info_section .info_form .social_box {
   margin-top: 35px;
-  width: 100%;
+  width: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
